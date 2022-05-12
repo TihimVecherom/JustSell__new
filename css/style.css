@@ -3514,12 +3514,8 @@ label {
   z-index: 80;
 }
 
-.popap-opacity {
-  opacity: 0;
-}
-
-.popap-opacity:target {
-  opacity: 1;
+.products__counting-card {
+  z-index: -10;
 }
 
 /*
