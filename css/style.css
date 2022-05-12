@@ -3515,7 +3515,7 @@ label {
 }
 
 .products__counting-card {
-  z-index: -10;
+  z-index: -100;
 }
 
 /*
